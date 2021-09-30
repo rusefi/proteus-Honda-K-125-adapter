@@ -56,7 +56,13 @@
         }
       ],
       "drc_exclusions": [
-        "courtyards_overlap|240488956|89749999|b8af28b1-c97f-4d72-8720-abf047892442|e8ba38f8-11a1-45f8-8f8f-fa00c1e0c8ff"
+        "courtyards_overlap|240488956|89749999|b8af28b1-c97f-4d72-8720-abf047892442|e8ba38f8-11a1-45f8-8f8f-fa00c1e0c8ff",
+        "silk_over_copper|104100000|66982750|7e7de91d-583a-4b04-a0ad-744b8dd049c2|09b40752-f30d-4453-80da-90203266cb72",
+        "silk_over_copper|142981660|194387500|ac683ab8-9b7d-487c-996d-eb67dad99c98|7315f31e-95b1-42b3-892b-f99eb06598e5",
+        "silk_over_copper|142981660|194887501|ac683ab8-9b7d-487c-996d-eb67dad99c98|b9b8a000-4eae-47ad-a046-d728b4292606",
+        "silk_over_copper|142981660|204862493|ac683ab8-9b7d-487c-996d-eb67dad99c98|a85c051e-2c6b-427f-bcd1-cf3f2a22e77a",
+        "silk_over_copper|143156666|205012498|66217a6c-ba5c-4595-9cf0-464f30cd2ce7|a85c051e-2c6b-427f-bcd1-cf3f2a22e77a",
+        "silk_over_copper|241500000|72155760|98679345-fecf-41a4-94e3-198b2a841e1d|59807e02-1afd-4cfc-9829-102565ffa90e"
       ],
       "meta": {
         "filename": "board_design_settings.json",
@@ -108,7 +114,7 @@
         "max_error": 0.005,
         "min_clearance": 0.15,
         "min_copper_edge_clearance": 0.09999999999999999,
-        "min_hole_clearance": 0.0,
+        "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
