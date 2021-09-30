@@ -5,4 +5,5 @@
   (lib (name "proteus")(type "KiCad")(uri "${KIPRJMOD}/../kicad6-libraries/proteus.kicad_sym")(options "")(descr ""))
   (lib (name "TE_1318612-1")(type "KiCad")(uri "${KIPRJMOD}/../kicad6-libraries/TE_1318612-1.kicad_sym")(options "")(descr ""))
   (lib (name "rusefi_logo")(type "KiCad")(uri "${KIPRJMOD}/../kicad6-libraries/rusefi_logo.kicad_sym")(options "")(descr ""))
+  (lib (name "MPX_SOP_SSOP")(type "KiCad")(uri "${KIPRJMOD}/../kicad6-libraries/MPX_SOP_SSOP.kicad_sym")(options "")(descr ""))
 )
