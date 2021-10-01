@@ -1,4 +1,4 @@
-19719771387864326
+19719771464972057
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84655,8 +84655,8 @@ MPX_SOP_SSOP
 
 
 0
-0
-0
+16
+8
 kicad6-libraries
 TE_1318612-1
 1318612-1-3
