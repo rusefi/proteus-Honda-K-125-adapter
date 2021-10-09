@@ -399,7 +399,7 @@
       "netlist": "hw48na.net",
       "specctra_dsn": "",
       "step": "",
-      "vrml": "gerber/hellen64_miataNA6_94.wrl"
+      "vrml": "proteus125honda/gerber/proteus125honda.wrl"
     },
     "page_layout_descr_file": ""
   },
@@ -438,7 +438,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "gerber/",
+    "plot_directory": "proteus125honda/gerber/",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
